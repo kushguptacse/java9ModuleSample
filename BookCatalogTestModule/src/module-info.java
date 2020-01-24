@@ -1,0 +1,3 @@
+module BookCatalogTestModule {
+	requires BookCatalogModule;
+}
